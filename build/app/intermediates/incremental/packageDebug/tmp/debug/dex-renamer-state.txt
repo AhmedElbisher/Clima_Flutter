@@ -1,0 +1,4 @@
+#Fri Jun 05 14:36:31 EET 2020
+base.0=/home/ahmed/Desktop/Clima-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
